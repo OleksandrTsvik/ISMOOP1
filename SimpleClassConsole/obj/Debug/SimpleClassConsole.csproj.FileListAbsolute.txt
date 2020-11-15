@@ -1,0 +1,7 @@
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\bin\Debug\SimpleClassConsole.exe.config
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\bin\Debug\SimpleClassConsole.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\bin\Debug\SimpleClassConsole.pdb
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\obj\Debug\SimpleClassConsole.csprojAssemblyReference.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\obj\Debug\SimpleClassConsole.csproj.CoreCompileInputs.cache
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\obj\Debug\SimpleClassConsole.exe
+C:\Users\pastu\Documents\Programming projects\ISM\TASK №07\OOP1\SimpleClassConsole\obj\Debug\SimpleClassConsole.pdb
